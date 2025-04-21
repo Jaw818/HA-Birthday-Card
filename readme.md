@@ -103,8 +103,8 @@ Repeat this process for sensors 2 through 4:
 
 You’ll also want to set up sensors to display the birthday date and how many days remain.
 
-- [Birthday Date Sensor Templates](https://github.com/Jaw818/home-assistant/blob/main/Birthday%20Date%20Sensor%20Templates)
-- [Days Until Birthday Sensor Templates](https://github.com/Jaw818/home-assistant/blob/main/Days%20until%20Birthday%20Sensor%20Templates)
+- [Birthday Date Sensor Templates](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Birthday%20Date%20Sensor%20Templates)
+- [Days Until Birthday Sensor Templates](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Days%20until%20Birthday%20Sensor%20Templates)
 
 ---
 
@@ -160,11 +160,11 @@ These sensors give a cleaner message for the dashboard, showing things like “i
 ### Mobile Pop-up Version (Browser Mod):
 <img src="https://github.com/user-attachments/assets/4287169e-ac3d-4c00-8311-143ac0ea55a4" alt="Alt Text" width="450" height="800">
 
-📱 [Pop-up Birthday Card](https://github.com/Jaw818/home-assistant/blob/main/Popup%20Birthday%20Card)
+📱 [Pop-up Birthday Card](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Popup%20Birthday%20Card)
 
 ### Wall Panel/Kiosk Version:
 ![Birthdays Redacted Kiosk](https://github.com/user-attachments/assets/55661e3e-fad3-40ac-bb00-8da8df973daf)
-🖥 [Kiosk Birthday Card](https://github.com/Jaw818/home-assistant/blob/main/Kiosk%20Birthday%20Card)
+🖥 [Kiosk Birthday Card](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Kiosk%20Birthday%20Card)
 
 > I used AI-generated children for my demo pictures…because, well, Photoshop fatigue is real.
 
@@ -175,20 +175,20 @@ These sensors give a cleaner message for the dashboard, showing things like “i
 ### TTS Birthday Shoutouts:
 This automation checks if someone’s birthday is today and announces it via your smart speakers.
 
-🗣 [TTS Birthday Automation](https://github.com/Jaw818/home-assistant/blob/main/TTS%20Birthday%20Automation)
+🗣 [TTS Birthday Automation](https://github.com/Jaw818/HA-Birthday-Card/blob/main/TTS%20Birthday%20Automation)
 
 > I trigger mine when I turn off my morning alarm!
 
 ### Push Notifications:
 ![Screenshot_20250418_150353_One UI Home](https://github.com/user-attachments/assets/56c24cfb-0d95-4d4e-803d-84526fbfe451)
 
-📲 [Day-of Push Notification](https://github.com/Jaw818/home-assistant/blob/main/Birthday%20Push%20Notifications)
+📲 [Day-of Push Notification](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Birthday%20Push%20Notifications)
 
 
-🌅 [Night Before Reminder](https://github.com/Jaw818/home-assistant/blob/main/Night%20Before%20Birthday%20Reminder)
+🌅 [Night Before Reminder](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Night%20Before%20Birthday%20Reminder)
 
 To make this work, set up a binary sensor like this:  
-🔌 [Birthday Tomorrow Binary Sensor](https://github.com/Jaw818/home-assistant/blob/main/Birthday%20Binary%20Sensor)
+🔌 [Birthday Tomorrow Binary Sensor](https://github.com/Jaw818/HA-Birthday-Card/blob/main/Birthday%20Binary%20Sensor)
 
 ---
 
